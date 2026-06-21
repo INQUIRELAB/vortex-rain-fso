@@ -28,7 +28,7 @@ The repository supports simulations and post-processing for:
 
 ![vortex-rain-fso-demo](LG40_vortex_rain_propagation.gif)
 
-![LG40_vortex_rain_lowR_vs_highR-demo](LG40_vortex_rain_lowR_vs_highR.gif)
+![LG40_vortex_rain_lowR_vs_highR_corrected-demo](LG40_vortex_rain_lowR_vs_highR_corrected.gif)
 
 ## 📁 Repository Structure
 
