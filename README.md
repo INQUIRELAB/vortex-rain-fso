@@ -120,23 +120,6 @@ Fig_vsMode
 Fig_vsRainfall
 ```
 
-## ⚠️ Important Notes Before Release
-
-The provided GO simulation calls a helper routine named `scatterPhoton(...)`. Before making the repository public, add `scatterPhoton.m` to this repository or ensure it is clearly listed as an external dependency.
-
-The analysis script `Fig_Extract_data.m` expects simulation-result folders with mode-specific names such as:
-
-```text
-GO_Simulation_Results LG00/
-GO_Simulation_Results LG10/
-GO_Simulation_Results LG-40/
-GO_Simulation_Results LG10+LG-40/
-Mie_Simulation_Results LG00/
-...
-```
-
-If your simulation outputs are stored using different folder names, update the folder paths in `Fig_Extract_data.m` before running the extraction step.
-
 ## 📊 Outputs
 
 The scripts generate MATLAB `.fig` files and image files in folders under:
