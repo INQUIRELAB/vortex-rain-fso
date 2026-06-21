@@ -154,19 +154,6 @@ Typical outputs include:
 - Single-simulation versus averaged-simulation plots.
 - Attenuation-law coefficient and exponent trends.
 
-## ✅ Recommended GitHub Repository Name
-
-**`vortex-rain-fso`**
-
-Alternative concise options:
-
-- `lg-rain-fso`
-- `rain-fso-vortex-beams`
-- `vortex-beam-rain-model`
-
-## 📄 Suggested GitHub Repository Description
-
-MATLAB codes for physics-based Monte Carlo modeling of Laguerre-Gaussian vortex beam propagation in rainy free-space optical communication channels. The framework compares Geometrical Optics and Mie scattering models to evaluate photon count, SNR, attenuation, and mode-dependent performance under adverse weather.
 
 ## 📚 Citation
 
