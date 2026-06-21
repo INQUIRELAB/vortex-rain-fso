@@ -26,6 +26,8 @@ The repository supports simulations and post-processing for:
 - LG mode comparison, including individual and superposed modes.
 - Figure generation for manuscript-quality plots.
 
+![vortex-rain-fso-demo](LG40_vortex_rain_propagation.gif)
+
 ## 📁 Repository Structure
 
 ```text
